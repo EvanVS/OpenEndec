@@ -1,0 +1,1 @@
+OpenEndecV2.py -c COM1 -w https://discord.com/api/webhooks/ThisWouldBeAnActualWebhookThatYouCopiedFromDiscord, https://discord.com/api/webhooks/ThisWouldBeASecondWebhookThatYouCopiedFromDiscord
